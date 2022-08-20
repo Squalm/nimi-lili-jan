@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title:  "ni li sin!"
 date:   2022-08-08 16:56:06 +0100
 ---
